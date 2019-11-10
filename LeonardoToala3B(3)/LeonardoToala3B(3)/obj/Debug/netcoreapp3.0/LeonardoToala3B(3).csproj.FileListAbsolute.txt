@@ -1,0 +1,11 @@
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\bin\Debug\netcoreapp3.0\LeonardoToala3B(3).exe
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\bin\Debug\netcoreapp3.0\LeonardoToala3B(3).deps.json
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\bin\Debug\netcoreapp3.0\LeonardoToala3B(3).runtimeconfig.json
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\bin\Debug\netcoreapp3.0\LeonardoToala3B(3).runtimeconfig.dev.json
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\bin\Debug\netcoreapp3.0\LeonardoToala3B(3).dll
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\bin\Debug\netcoreapp3.0\LeonardoToala3B(3).pdb
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\obj\Debug\netcoreapp3.0\LeonardoToala3B(3).csprojAssemblyReference.cache
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\obj\Debug\netcoreapp3.0\LeonardoToala3B(3).AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\obj\Debug\netcoreapp3.0\LeonardoToala3B(3).AssemblyInfo.cs
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\obj\Debug\netcoreapp3.0\LeonardoToala3B(3).dll
+C:\Users\leona\source\repos\LeonardoToala3B(3)\LeonardoToala3B(3)\obj\Debug\netcoreapp3.0\LeonardoToala3B(3).pdb
